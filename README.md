@@ -21,7 +21,9 @@ This project is designed to introduce cloud deployment fundamentals using Amazon
   - Configure the Web Server: Deploy the application on the EC2 instance.
   - Sample Code: Provide With Git repo
 - **Step 3: Test the Application**
-  - Access the Web Application: After deploying, access the application via the public IP address of the EC2 instance. 
+  - Access the Web Application: After deploying, access the application via the public IP address of the EC2 instance.
+  - ![Screenshot (57)](https://github.com/user-attachments/assets/6fc84f9b-85c4-4646-bd75-f27dff6da562)
+
 
 ### Technology Used: 
 Frontend: HTML, CSS
