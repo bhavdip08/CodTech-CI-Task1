@@ -2,5 +2,5 @@ First update server using: sudo yum update -y
 Switch User to root: sudo su -
 install httpd server using: yum install httpd -y
 go for var html derectory for host: cd /var/www/html
-create index.html file for code: vi index.html
+create index.html file for code and write your codes: vi index.html
 start httpd service using: service httpd start
